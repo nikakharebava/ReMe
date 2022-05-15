@@ -1,4 +1,4 @@
-![ReMe](/_storage//_img/ReMeLogo.png)
+<img src="/_storage/_img/ReMeLogo.png" width="40%"/>
 
 ## whoami / what's this
 

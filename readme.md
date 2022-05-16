@@ -16,5 +16,5 @@ Windows
 Android  
 Crackmes  
 Misc
- - [VolumeInformationUSBCryptoStealer](/_writeups/_misc/VolumeInformationUSBCryptoStealer.md)
+- [VolumeInformationUSBCryptoStealer](/_writeups/_misc/VolumeInformationUSBCryptoStealer.md)
 

@@ -16,5 +16,6 @@ Windows
 Android  
 Crackmes  
 Misc
-- [VolumeInformationUSBCryptoStealer](/_writeups/_misc/VolumeInformationUSBCryptoStealer.md)
 
+- [Dealing with InnoSetup Malwares](/_writeups/_misc/DealingWithInnoSetup.md)
+- [VolumeInformationUSBCryptoStealer](/_writeups/_misc/VolumeInformationUSBCryptoStealer.md)

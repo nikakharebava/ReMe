@@ -1,3 +1,5 @@
+[**< back**](/readme.md)
+
 # Dealing with InnoSetup packed malwares/binaries
 
 This method of packaging a malware bugged me for a while at first until I discovered that there was a way of simply unpacking it rather than tracing the whole process... 
@@ -31,3 +33,4 @@ And all of the configuration files and binaries are extracted from the setup...
   
 ![HappyHunting](/_storage/_img/DealingWithInnoSetup/HappyHunting.gif)
 
+[**< back**](/readme.md)
